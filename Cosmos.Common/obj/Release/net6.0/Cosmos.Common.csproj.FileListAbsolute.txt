@@ -1,0 +1,12 @@
+C:\Users\Appinventiv\source\repos\CosmosCleanArchitecture.FunctionApp\Cosmos.Common\bin\Release\net6.0\Cosmos.Common.deps.json
+C:\Users\Appinventiv\source\repos\CosmosCleanArchitecture.FunctionApp\Cosmos.Common\bin\Release\net6.0\Cosmos.Common.dll
+C:\Users\Appinventiv\source\repos\CosmosCleanArchitecture.FunctionApp\Cosmos.Common\bin\Release\net6.0\Cosmos.Common.pdb
+C:\Users\Appinventiv\source\repos\CosmosCleanArchitecture.FunctionApp\Cosmos.Common\obj\Release\net6.0\Cosmos.Common.csproj.AssemblyReference.cache
+C:\Users\Appinventiv\source\repos\CosmosCleanArchitecture.FunctionApp\Cosmos.Common\obj\Release\net6.0\Cosmos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Appinventiv\source\repos\CosmosCleanArchitecture.FunctionApp\Cosmos.Common\obj\Release\net6.0\Cosmos.Common.AssemblyInfoInputs.cache
+C:\Users\Appinventiv\source\repos\CosmosCleanArchitecture.FunctionApp\Cosmos.Common\obj\Release\net6.0\Cosmos.Common.AssemblyInfo.cs
+C:\Users\Appinventiv\source\repos\CosmosCleanArchitecture.FunctionApp\Cosmos.Common\obj\Release\net6.0\Cosmos.Common.csproj.CoreCompileInputs.cache
+C:\Users\Appinventiv\source\repos\CosmosCleanArchitecture.FunctionApp\Cosmos.Common\obj\Release\net6.0\Cosmos.Common.dll
+C:\Users\Appinventiv\source\repos\CosmosCleanArchitecture.FunctionApp\Cosmos.Common\obj\Release\net6.0\refint\Cosmos.Common.dll
+C:\Users\Appinventiv\source\repos\CosmosCleanArchitecture.FunctionApp\Cosmos.Common\obj\Release\net6.0\Cosmos.Common.pdb
+C:\Users\Appinventiv\source\repos\CosmosCleanArchitecture.FunctionApp\Cosmos.Common\obj\Release\net6.0\ref\Cosmos.Common.dll

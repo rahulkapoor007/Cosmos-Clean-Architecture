@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kgn5Ht6BhN+7KjqyquCzm8ISWqKEm8cu/Wp5MqeoBs2YmsKGL7FvkUMSRVkBeXr3X7pxmYOB/6+69iC252RcsQ==",
+  "success": true,
+  "projectFilePath": "G:\\GITHUB\\CosmosCleanArchitecture.FunctionApp\\CosmosServices.Abstraction\\CosmosServices.Abstraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
